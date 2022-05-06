@@ -1,0 +1,120 @@
+.container2 {
+  width: 70%;
+  height: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: rgba(31, 30, 30, 1);
+}
+.contact {
+  padding-left: 10px;
+  cursor: pointer;
+  color: rgba(31, 30, 30, 1); 
+  font-family: Roboto;
+font-size: 12px;
+font-weight: 400;
+line-height: 16px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.contact:hover {
+  color: rgb(172, 159, 159);
+  transform: 0.7s;
+}
+.home {
+  margin-right: 9px;
+  align-items: center; 
+  color: rgba(31, 30, 30, 1);
+
+}
+.shop {
+  cursor: pointer;
+  padding-right: 20px;
+  font-family: Roboto sans-serif; 
+  color: rgba(31, 30, 30, 1);
+
+}
+.shop:hover {
+  color: rgb(172, 159, 159);
+  transform: 0.7s;
+}
+.about {
+  cursor: pointer;
+  margin-right: 10px; 
+color: rgba(31, 30, 30, 1);
+
+}
+.about:hover {
+  color: rgb(172, 159, 159);
+  transform: 0.7s;
+}
+.home {
+  cursor: pointer; 
+  font-family: Roboto;
+font-size: 12px;
+font-weight: 400;
+line-height: 16px; 
+color: rgba(31, 30, 30, 1);
+
+
+}
+.home:hover {
+  color: rgb(172, 159, 159);
+  transform: 0.7s;
+}
+.about {
+  cursor: pointer; 
+  font-family: Roboto;
+font-size: 12px;
+font-weight: 400;
+line-height: 16px;
+letter-spacing: 0em;
+color: rgba(31, 30, 30, 1);
+
+}
+.about:hover {
+  color: rgb(172, 159, 159);
+  transform: 0.7s;
+}
+.journal {
+  cursor: pointer; 
+  font-family: Roboto;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  letter-spacing: 0em;
+  text-align: left;
+color: rgba(31, 30, 30, 1);
+
+}
+.journal:hover {
+  color: rgb(172, 159, 159);
+  transform: 0.7s;
+}
+
+.hamburger {
+  display: none;
+}
+@media screen and (max-width: 520px) {
+  .container2 {
+    display: none;
+  }
+  .hamburger {
+    display: flex;
+  }
+}
+.close {
+  display: none;
+}
+
+@media screen and (max-width: 520px) {
+  .close {
+    display: flex;
+  }
+}
+.bI {
+  display: block;
+  width: 100px;
+  height: 50px;
+}

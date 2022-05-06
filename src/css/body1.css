@@ -1,0 +1,172 @@
+.curly {
+  padding-left: 70px;
+}
+@media screen and (max-width: 520px) {
+  .curly {
+    width: 520px;
+    display: block;
+    padding-left: 0px;
+  }
+}
+.eco {
+  color: #fff;
+  font-family: Roboto;
+  font-size: 12px;
+  padding-left: 210px;
+  padding-top: 210px;
+}
+.organic {
+  padding-right: 640px;
+  color: #fff;
+  font-family: Roboto;
+  font-size: 56px;
+  font-weight: 400;
+  line-height: 56px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+.Sbutton {
+  cursor: pointer;
+  border-radius: 4px;
+  height: 42px;
+  background-color: rgba(31, 30, 30, 1);
+  color: #fff;
+  margin-top: 40px;
+  margin-left: 222px;
+}
+.newQ {
+  padding-top: 9 0px;
+  color: #fff;
+  font-family: Roboto;
+  font-size: 41px;
+  font-weight: 400;
+  line-height: 44px;
+  letter-spacing: 0em;
+}
+.Bshop {
+  color: #fff;
+  font-family: Roboto;
+  font-size: 39px;
+  font-weight: 400;
+  line-height: 44px;
+  letter-spacing: 0em;
+  text-align: left;
+  padding-top: 500px;
+  padding-left: 52px;
+}
+.rectSh {
+  padding-left: 30px;
+}
+.shopRec {
+  color: #fff;
+  font-family: Roboto;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 14px;
+  letter-spacing: 0em;
+  text-align: left;
+  padding-left: 30px;
+}
+.shH {
+  text-align: center;
+  color: rgb(31, 30, 30, 1);
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 48px;
+}
+.asd {
+  width: 2em;
+  height: 2em;
+  border-radius: 100%;
+  border: 1px solid rgba(0, 0, 0, 0.12);
+  text-align: center;
+  align-items: center;
+  margin-left: 465px;
+  /* margin-top: 89px; */
+}
+.cruetlyF {
+  /* /* margin-top: 10px; */
+  margin-left: 445px;
+  font-family: Roboto;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0em;
+}
+.free {
+  font-family: Roboto;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  letter-spacing: 0em;
+  margin-left: 380px;
+  margin-top: 4px;
+}
+.width1 {
+  padding-left: 180px;
+  margin-top: 10px;
+}
+.heightD {
+  padding-left: 620px;
+  padding-bottom: 90px;
+  margin-top: -55px;
+}
+.p2 {
+  width: 2em;
+  height: 2em;
+  border-radius: 100%;
+  border: 1px solid rgba(0, 0, 0, 0.12);
+  text-align: center;
+  align-items: center;
+  margin-left: 745px;
+  text-align: center;
+  margin-top: -229px;
+}
+.vegan100 {
+  text-align: center;
+}
+.you_c {
+  text-align: center;
+  font-family: Roboto;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+.youH {
+  margin-left: 900px;
+  margin-top: -63px;
+}
+.d3iv {
+  width: 2em;
+  height: 2em;
+  border-radius: 100%;
+  border: 1px solid rgba(0, 0, 0, 0.12);
+  text-align: center;
+  align-items: center;
+  margin-left: 1015px;
+  margin-top: -130px;
+}
+.natural_3 {
+  text-align: right;
+  margin-right: 415px;
+  font-family: Roboto;
+  font-size: 15px;
+  font-weight: 400;
+}
+.ge3t {
+  text-align: right;
+  margin-right: 365px;
+  font-family: Roboto;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  letter-spacing: 0em;
+}
+.width2{
+  margin-left: 360px; 
+  margin-top: 80px;
+}
