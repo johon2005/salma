@@ -1,0 +1,215 @@
+.sign {
+  margin-left: 80px;
+  margin-top: 50px;
+  font-family: Roboto;
+  font-size: 33px;
+  font-weight: 400;
+  line-height: 45px;
+  letter-spacing: 0em;
+}
+.divPR {
+  display: flex;
+  margin-top: 60px;
+}
+.learnV {
+  margin-left: 80px;
+  font-family: Roboto;
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 13px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.privacy {
+  margin-left: 10px;
+  font-family: Roboto;
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 13px;
+  letter-spacing: 0em;
+  color: rgba(182, 172, 169, 1);
+}
+.canyou {
+  margin-left: 10px;
+  font-family: Roboto;
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 13px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.unsur {
+  margin-left: 80px;
+  color: rgba(182, 172, 169, 1);
+  font-family: Roboto;
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 13px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.unsurD {
+  display: flex;
+}
+.atany {
+  margin-left: 8px;
+  margin-bottom: 5px;
+  font-family: Roboto;
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 13px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.input {
+  margin-left: 80px;
+  width: 420px;
+  height: 56px;
+  background-color: #fff;
+  border-radius: 4px;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.12);
+}
+.foterh {
+  background: rgba(0, 0, 0, 0.12);
+  margin-top: -640px;
+  margin-left: 750px;
+}
+.social {
+  font-family: Roboto;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  letter-spacing: 0em;
+}
+.foterD {
+  width: 50%;
+}
+.socialD {
+  width: 50%;
+}
+
+.foterw {
+  background: rgba(0, 0, 0, 0.12);
+  margin-left: 80px;
+}
+.foterBoss {
+  display: block;
+  margin-top: 100px;
+}
+.emailD {
+  display: block;
+  margin-left: 180px;
+  margin-top: 50px;
+}
+
+.emailp {
+  margin-left: -100px;
+  font-family: Roboto;
+  font-size: 26px;
+  font-weight: 400;
+  line-height: 35px;
+  letter-spacing: 0em;
+}
+.pp {
+  font-family: Roboto;
+  font-size: 11px;
+  font-weight: 400;
+  line-height: 14px;
+  letter-spacing: 0em;
+}
+.boss {
+  display: flex;
+}
+.navigit {
+  width: 32px;
+  height: 32px;
+  margin-left: 360px;
+  margin-top: 47px;
+}
+.navigitD {
+  display: block;
+}
+.showroom {
+  text-align: center;
+  /* margin-top: 20px; */
+  margin-left: 240px;
+  font-family: Roboto;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 14px;
+  letter-spacing: 0em;
+}
+.prinz {
+  text-align: center;
+  margin-left: 250px;
+  font-family: Roboto;
+  font-size: 26px;
+  font-weight: 400;
+  line-height: 35px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+.munich {
+  font-family: Roboto;
+  font-size: 26px;
+  font-weight: 400;
+  line-height: 35px;
+  letter-spacing: 0em;
+  text-align: center;
+  margin-left: 230px;
+}
+
+.number {
+  margin-top: 10px;
+  font-family: Roboto;
+  font-size: 26px;
+  font-weight: 400;
+  line-height: 35px;
+  letter-spacing: 0em;
+}
+.phoneD {
+  text-align: center;
+  margin-left: 200px;
+  margin-top: 50px;
+}
+.phonep {
+  font-family: Roboto;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 14px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+.vector {
+  margin-left: 80px;
+}
+.vectorD {
+  display: flex;
+  margin-top: 50px;
+  background-color: rgba(0, 0, 0, 0.04);
+  width: 100%; 
+  /* height: 56px; */
+}
+.rating {
+  font-family: Roboto;
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 13px;
+  letter-spacing: 0em;
+  margin-top: 10px;
+  margin-left: 8px;
+}
+.gogle{
+  text-align: right; 
+  margin-left: 980px;
+}  
+.pay{
+margin-left: 10px;
+} 
+.apple{ 
+  margin-top: 5px;  
+  margin-left: 10px;
+  width: 39px; 
+  height: 16px; 
+  cursor: pointer;
+}

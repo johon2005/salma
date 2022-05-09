@@ -4,7 +4,7 @@ import Qora from "../../styles/qora.png";
 import Bcurly from "../../styles/Bcurly.png";
 import Rectangle from "../../styles/Rectangle.png";
 import Width from "../../styles/width.png";
-import Height2 from "../../styles/height.png"
+import Height2 from "../../styles/height.png";
 function Body1() {
   return (
     <>
@@ -65,25 +65,22 @@ function Body1() {
           cool pin badges to decorate your backpack, denim jean
           <br />
           jacket, lapel, and festival hat for sale in our online store.
-        </p> 
+        </p>
         <div className="boss123">
-
-        <Width1 /> 
-        <p className="asd">1 </p>
-        <p className="cruetlyF">Cruelty Free</p>
-        <p className="free">Free digital proofs and best design advice</p> 
-        <Height/> 
-        <p className="p2">2</p> 
-        <p className="vegan100">100% Vegan</p> 
-        <p className="you_c">You can always start with 50 pcs here</p> 
-        <img  className="youH" src={Height2}  />
-              <p className="d3iv">3</p> 
-              <p className="natural_3">Natural Ingredients</p> 
-              <p className="ge3t">Get excellent pins or have your money back</p> 
-              <img className="width2" src={Width} />
-
+          <Width1 />
+          <p className="asd">1 </p>
+          <p className="cruetlyF">Cruelty Free</p>
+          <p className="free">Free digital proofs and best design advice</p>
+          <Height />
+          <p className="p2">2</p>
+          <p className="vegan100">100% Vegan</p>
+          <p className="you_c">You can always start with 50 pcs here</p>
+          <img className="youH" src={Height2} />
+          <p className="d3iv">3</p>
+          <p className="natural_3">Natural Ingredients</p>
+          <p className="ge3t">Get excellent pins or have your money back</p>
+          <img className="width2" src={Width} />
         </div>
-
       </div>
     </>
   );
@@ -106,9 +103,9 @@ export function Width1() {
   );
 }
 export function Height() {
-  return(
-    <div  className="heightD">
-      <img src={Height2}  />
+  return (
+    <div className="heightD">
+      <img src={Height2} />
     </div>
-  )
+  );
 }

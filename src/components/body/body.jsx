@@ -1,14 +1,18 @@
 import Body1 from "./body1";
 import Body2 from "./body2";
 import Body3 from "./body3";
+import Body4 from "./body4";
+import Body5 from "./body5";
 
 function Body() {
-    return(
-        <div> 
-            <Body1/> 
-            <Body2/> 
-            <Body3/>
-        </div>
-    )
-} 
+  return (
+    <div>
+      <Body1 />
+      <Body2 />
+      <Body3 /> 
+      <Body4/> 
+      <Body5/>
+    </div>
+  );
+}
 export default Body;
